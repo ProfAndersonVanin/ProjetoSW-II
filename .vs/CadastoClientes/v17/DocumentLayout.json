@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\views\\cliente\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\views\\cliente\\adicionar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\views\\cliente\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\views\\cliente\\apagar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|c:\\users\\prof\\desktop\\cadastoclientes\\cadastoclientes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DCC318-467D-4311-811D-3CB6BD7513AB}|CadastoClientes\\CadastroClientes.csproj|solutionrelative:cadastoclientes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apagar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Apagar.cshtml",
+              "RelativeDocumentMoniker": "CadastoClientes\\Views\\Cliente\\Apagar.cshtml",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Apagar.cshtml",
+              "RelativeToolTip": "CadastoClientes\\Views\\Cliente\\Apagar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:01:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Editar.cshtml",
+              "RelativeDocumentMoniker": "CadastoClientes\\Views\\Cliente\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Editar.cshtml",
+              "RelativeToolTip": "CadastoClientes\\Views\\Cliente\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:01:15.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adicionar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Adicionar.cshtml",
+              "RelativeDocumentMoniker": "CadastoClientes\\Views\\Cliente\\Adicionar.cshtml",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Adicionar.cshtml",
+              "RelativeToolTip": "CadastoClientes\\Views\\Cliente\\Adicionar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:01:15.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "CadastoClientes\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "CadastoClientes\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:01:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastoClientes\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CadastoClientes\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:01:15.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CadastoClientes\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CadastoClientes\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-20T11:01:15.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "CadastoClientes\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "CadastoClientes\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:01:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CadastoClientes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CadastoClientes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T11:01:15.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Program.cs",
+              "RelativeDocumentMoniker": "CadastoClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Program.cs",
+              "RelativeToolTip": "CadastoClientes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:01:15.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Startup.cs",
+              "RelativeDocumentMoniker": "CadastoClientes\\Startup.cs",
+              "ToolTip": "C:\\Users\\Prof\\Desktop\\CadastoClientes\\CadastoClientes\\Startup.cs",
+              "RelativeToolTip": "CadastoClientes\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:01:15.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
